@@ -2,6 +2,9 @@
 <p align="center">  
   <img src="https://www.a2k.xyz/pewa" alt="Pewa">
 </p>
+![Pewa](https://github-readme-stats.vercel.app/api?username=pewa0001&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![Pewa](https://github-readme-stats.vercel.app/api/top-langs?username=pewa0001&show_icons=true&theme=tokyonight&layout=compact)
 <p align="center">
     @Pewa0001
 <p align="center">
