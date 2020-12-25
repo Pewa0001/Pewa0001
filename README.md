@@ -1,6 +1,6 @@
 ------
 <p align="center">  
-  <img src="https://i.imgur.com/mlv0ioJ.gif" alt="Avatar">
+  <img src="https://www.a2k.xyz/pewa" alt="Avatar">
 </p>
 <p align="center">
     @Pewa0001
